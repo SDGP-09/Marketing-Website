@@ -10,21 +10,21 @@ const features = [
     title: 'Project Management',
     description: 'Streamline your construction projects with our comprehensive project management tools. Track progress, manage resources, and meet deadlines efficiently.Project Management tools are designed to help construction companies efficiently plan, execute, and monitor their projects. With real-time progress tracking, resource allocation, and deadline management, businesses can stay on top of every detail. Our platform enables seamless collaboration between contractors, consultants, and stakeholders, ensuring smooth communication and coordination. ',
     icon: ProjectorIcon,
-    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1740421412/civil-engineer-construction-worker-manager-holding-digital-tablet-blueprints-talking-planing-about-construction-site-cooperation-teamwork-concept_jw7skb.jpg'
+    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1742229659/002_pq2ful.jpg'
   },
   {
     id: 'messaging',
     title: 'Interplatform Messaging',
     description: 'Keep your team connected with real-time messaging across all platforms. Share updates, files, and collaborate seamlessly.keeping our team connected across web and mobile. Sharing updates instantly, exchanging critical project files',
     icon: MessageSquare,
-    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1740421719/WhatsApp_Image_2025-02-24_at_22.25.52_2045edd0_dm6gwq.jpg'
+    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1742229658/004_hjxte2.jpg'
   },
   {
     id: 'tender',
     title: 'Tender Management',
     description: 'Simplify your tender process with our advanced management system. Create, track, and evaluate tenders all in one place.Our system enables businesses to publish tenders, receive bids from qualified contractors, and compare proposals efficiently. With real-time updates and automated tracking, stakeholders can stay informed about deadlines, bid evaluations, and approvals. Whether you’re a project owner seeking the best contractor or a contractor looking for new opportunities, CiviLink simplifies tendering, enhances transparency, and ensures a smooth, competitive bidding process.',
     icon: LayoutGrid,
-    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1740422118/smiling-entrepreneurs-discussing-business-document-folder_xeqsjk.jpg'
+    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1742230050/07_jibsa6.jpg'
   },
   {
     id: 'auth',
@@ -32,7 +32,7 @@ const features = [
     description: 'Secure your project data with our robust company-based authentication system. Control access and maintain data privacy.CiviLink ensures secure access control with a robust company-based authentication system, protecting your project data from unauthorized access. Businesses can manage user roles, set permissions, and restrict sensitive information to authorized personnel only.   \n' +
         'This system enhances data privacy and security, ensuring that only verified team members can access critical project details. ',
     icon: Key,
-    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1740423637/unrecognizable-man-neon-safety-vest-business-suit-sitting-desk-using-laptop_1098-17504_ifzsed.avif'
+    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1742229659/003_y5pfoy.jpg'
   }
 ];
 
