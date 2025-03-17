@@ -24,7 +24,7 @@ const features = [
     title: 'Tender Management',
     description: 'Simplify your tender process with our advanced management system. Create, track, and evaluate tenders all in one place.Our system enables businesses to publish tenders, receive bids from qualified contractors, and compare proposals efficiently. With real-time updates and automated tracking, stakeholders can stay informed about deadlines, bid evaluations, and approvals. Whether you’re a project owner seeking the best contractor or a contractor looking for new opportunities, CiviLink simplifies tendering, enhances transparency, and ensures a smooth, competitive bidding process.',
     icon: LayoutGrid,
-    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1742233415/09_u61usi.jpg'
+    image: 'https://res.cloudinary.com/ddcbr53w0/image/upload/v1742234094/09_qlnbub.jpg'
   },
   {
     id: 'auth',
